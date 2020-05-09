@@ -21,3 +21,9 @@ Improving the assets as I am using a simple cube for representing a car. Well fo
 
 `esc` to quit.<br>
 `spacebar` to apply handbrakes.<br>
+`F` to change camera view.<br><br>
+
+`W` or &#8593; to increase speed.<br>
+`S` or &#8595; to decrease speed.<br>
+`A` or &#8592; to steer left.<br>
+`D` or &#8594; to steer right.<br>
